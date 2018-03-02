@@ -221,5 +221,5 @@ typedef void(^WSLFlashSwitchBlock)(BOOL open);
     [_scanView startScanAnimation];
     
 ```
-好了到此结束，告辞~ 需要的瞅这里→[WSLNativeScanTool](https://github.com/wslcmk/ScanQRcode.git)
+简书地址：https://www.jianshu.com/u/e15d1f644bea
 ![赞.gif](http://upload-images.jianshu.io/upload_images/1708447-ce06388c244874ce.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
