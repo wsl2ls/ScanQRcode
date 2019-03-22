@@ -1,3 +1,5 @@
+支持 pod 'WSLNativeScanTool', '~> 1.0' 
+
 ![效果预览1.gif](http://upload-images.jianshu.io/upload_images/1708447-6f8d911290ccafb4.gif?imageMogr2/auto-orient/strip) ![效果预览2.gif](http://upload-images.jianshu.io/upload_images/1708447-70b61f5542fc07a1.gif?imageMogr2/auto-orient/strip)
 
 >功能描述:[WSLNativeScanTool](https://github.com/wslcmk/ScanQRcode.git)是在利用原生API的条件下封装的二维码扫描工具，支持二维码的扫描、识别图中二维码、生成自定义颜色和中心图标的二维码、监测环境亮度、打开闪光灯这些功能；[WSLScanView](https://github.com/wslcmk/ScanQRcode.git)是参照微信封装的一个扫一扫界面，支持线条颜色、大小、动画图片、矩形扫描框样式的自定义；这个示例本身就是仿照微信的扫一扫功能实现的。
