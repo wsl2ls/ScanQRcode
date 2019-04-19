@@ -1,5 +1,7 @@
 # WSLNativeScanTool
 
+简书地址：https://www.jianshu.com/u/e15d1f644bea
+
 ![](https://img.shields.io/badge/license-MIT%20-green.svg)
 ![](https://img.shields.io/badge/pod-v1.0-brightgreen.svg)
 ![](https://img.shields.io/badge/platform-iOS-orange.svg)
@@ -230,5 +232,5 @@ typedef void(^WSLFlashSwitchBlock)(BOOL open);
     [_scanView startScanAnimation];
     
 ```
-简书地址：https://www.jianshu.com/u/e15d1f644bea
+
 ![赞.gif](http://upload-images.jianshu.io/upload_images/1708447-ce06388c244874ce.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
