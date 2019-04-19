@@ -1,4 +1,11 @@
-支持 pod 'WSLNativeScanTool', '~> 1.0' 
+# WSLNativeScanTool
+
+![](https://img.shields.io/badge/license-MIT%20-green.svg)
+![](https://img.shields.io/badge/pod-v1.0-brightgreen.svg)
+![](https://img.shields.io/badge/platform-iOS-orange.svg)
+![](https://img.shields.io/badge/support-iOS9.0-green.svg)
+![](https://img.shields.io/badge/build-passing-green.svg)
+
 
 ![效果预览1.gif](http://upload-images.jianshu.io/upload_images/1708447-6f8d911290ccafb4.gif?imageMogr2/auto-orient/strip) ![效果预览2.gif](http://upload-images.jianshu.io/upload_images/1708447-70b61f5542fc07a1.gif?imageMogr2/auto-orient/strip)
 
