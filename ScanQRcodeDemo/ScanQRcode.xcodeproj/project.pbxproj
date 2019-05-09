@@ -7,10 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3121A61B2047CE7F00C739EB /* WechatIMG1 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3121A61A2047CE7F00C739EB /* WechatIMG1 1.jpeg */; };
-		3121A61D2047CEFD00C739EB /* piao.png in Resources */ = {isa = PBXBuildFile; fileRef = 3121A61C2047CEFD00C739EB /* piao.png */; };
 		3121A6202047CF6600C739EB /* WSLCreateQRCodeController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3121A61F2047CF6600C739EB /* WSLCreateQRCodeController.m */; };
-		3121A6252047E89D00C739EB /* piao.png in Sources */ = {isa = PBXBuildFile; fileRef = 3121A61C2047CEFD00C739EB /* piao.png */; };
 		3126E86C20467ADC0058E372 /* WSLScanView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3126E86B20467ADC0058E372 /* WSLScanView.m */; };
 		3126E86E204682E70058E372 /* scanLine@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3126E86D204682E70058E372 /* scanLine@2x.png */; };
 		31631AA22048E50F0063CE1C /* scanFlashlight@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 31631AA02048E50F0063CE1C /* scanFlashlight@2x.png */; };
@@ -24,6 +21,7 @@
 		317DB47B2018616C00D7308F /* ScanQRcodeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 317DB47A2018616C00D7308F /* ScanQRcodeTests.m */; };
 		317DB4862018616C00D7308F /* ScanQRcodeUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 317DB4852018616C00D7308F /* ScanQRcodeUITests.m */; };
 		319446522020577300002EC3 /* WSLNativeScanTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 319446512020577300002EC3 /* WSLNativeScanTool.m */; };
+		785D27612283BA5D008A2F6C /* piao.png in Resources */ = {isa = PBXBuildFile; fileRef = 785D27602283BA5D008A2F6C /* piao.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,8 +42,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3121A61A2047CE7F00C739EB /* WechatIMG1 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WechatIMG1 1.jpeg"; sourceTree = "<group>"; };
-		3121A61C2047CEFD00C739EB /* piao.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = piao.png; sourceTree = "<group>"; };
 		3121A61E2047CF6600C739EB /* WSLCreateQRCodeController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WSLCreateQRCodeController.h; sourceTree = "<group>"; };
 		3121A61F2047CF6600C739EB /* WSLCreateQRCodeController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WSLCreateQRCodeController.m; sourceTree = "<group>"; };
 		3126E86A20467ADC0058E372 /* WSLScanView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WSLScanView.h; sourceTree = "<group>"; };
@@ -71,6 +67,7 @@
 		317DB4872018616C00D7308F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		319446502020577300002EC3 /* WSLNativeScanTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WSLNativeScanTool.h; sourceTree = "<group>"; };
 		319446512020577300002EC3 /* WSLNativeScanTool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WSLNativeScanTool.m; sourceTree = "<group>"; };
+		785D27602283BA5D008A2F6C /* piao.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = piao.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,9 +120,8 @@
 			children = (
 				31631AA02048E50F0063CE1C /* scanFlashlight@2x.png */,
 				31631AA12048E50F0063CE1C /* scanFlashlight@3x.png */,
-				3121A61A2047CE7F00C739EB /* WechatIMG1 1.jpeg */,
-				3121A61C2047CEFD00C739EB /* piao.png */,
 				3126E86D204682E70058E372 /* scanLine@2x.png */,
+				785D27602283BA5D008A2F6C /* piao.png */,
 				317DB4612018616C00D7308F /* AppDelegate.h */,
 				317DB4622018616C00D7308F /* AppDelegate.m */,
 				319446502020577300002EC3 /* WSLNativeScanTool.h */,
@@ -271,10 +267,9 @@
 			files = (
 				317DB46E2018616C00D7308F /* LaunchScreen.storyboard in Resources */,
 				3126E86E204682E70058E372 /* scanLine@2x.png in Resources */,
-				3121A61D2047CEFD00C739EB /* piao.png in Resources */,
 				317DB46B2018616C00D7308F /* Assets.xcassets in Resources */,
+				785D27612283BA5D008A2F6C /* piao.png in Resources */,
 				31631AA22048E50F0063CE1C /* scanFlashlight@2x.png in Resources */,
-				3121A61B2047CE7F00C739EB /* WechatIMG1 1.jpeg in Resources */,
 				31631AA32048E50F0063CE1C /* scanFlashlight@3x.png in Resources */,
 				317DB4692018616C00D7308F /* Main.storyboard in Resources */,
 			);
@@ -301,7 +296,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3121A6252047E89D00C739EB /* piao.png in Sources */,
 				317DB4662018616C00D7308F /* ViewController.m in Sources */,
 				317DB4712018616C00D7308F /* main.m in Sources */,
 				319446522020577300002EC3 /* WSLNativeScanTool.m in Sources */,
@@ -470,16 +464,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: China Daily";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: China Daily";
+				CODE_SIGN_IDENTITY = "iPhone Developer: qu xg (E3B8HDH8KA)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: qu xg (E3B8HDH8KA)";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = HQDTGRH8YR;
+				DEVELOPMENT_TEAM = 2N77G66QN3;
 				INFOPLIST_FILE = ScanQRcode/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.chinadaily.test;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chinadaily.ChinaDaily;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "3022966d-393a-453d-9a18-cceb1425613d";
-				PROVISIONING_PROFILE_SPECIFIER = "China Daily Test";
+				PROVISIONING_PROFILE_SPECIFIER = "News for iPhone";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -488,16 +482,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: China Daily";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: China Daily";
+				CODE_SIGN_IDENTITY = "iPhone Developer: qu xg (E3B8HDH8KA)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: qu xg (E3B8HDH8KA)";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = HQDTGRH8YR;
+				DEVELOPMENT_TEAM = 2N77G66QN3;
 				INFOPLIST_FILE = ScanQRcode/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.chinadaily.test;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chinadaily.ChinaDaily;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "3022966d-393a-453d-9a18-cceb1425613d";
-				PROVISIONING_PROFILE_SPECIFIER = "China Daily Test";
+				PROVISIONING_PROFILE_SPECIFIER = "News for iPhone";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
